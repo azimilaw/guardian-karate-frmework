@@ -1,4 +1,7 @@
 .classpath
 .project
-.settings/
+.settings
 /target/
+/ignore.swp/
+./bin/
+.project
